@@ -6,7 +6,7 @@
 
 Concentration: Transportation Policy and Planning (TPP)
 
-Having grown up commuting between two small cities & one town, I am very interested in bettering transportation infrastructure in a way that promotes multiple modes of transportation to accomodate the variety of people and needs in any given community. Specifically, I wish to better shared mobility options and infrastructure in order to accomodate healthier communities and amid growing populatations. 
+Having grown up commuting between two small cities & one town, I am very interested in bettering transportation infrastructure in a way that promotes multiple modes of transportation to accomodate the variety of people and needs in any given community. Specifically, I wish to better shared mobility options and infrastructure in order to create healthier communities amid growing populatations. 
 
 ## **UP206A: Introduction to GIS & Spacial Data Science**
 
