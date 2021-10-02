@@ -5,6 +5,7 @@
 **UP206A: Introduction to GIS & Spacial Data Science**
 
 **Project Ideas**
+
 *To be added once the class project assignment is introduced*
 
 **Personal Objectives for the Class**
