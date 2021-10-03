@@ -11,8 +11,10 @@ Having grown up commuting between two small cities & one town, I am very interes
 ## **UP206A: Introduction to GIS & Spacial Data Science**
 
 ### **Project Ideas**
+* Evaluate the affect of adding a bus lane to a street on both transit ridership along that street and Level of Service measurements.
+* Evaluate whether bus lane implementations are being built to service low income or racially minority neighborhoods.
 
-*(To be added once the class project assignment is introduced)*
+*(More to be added once the class project assignment is introduced)*
 
 ### **Personal Objectives for the Class**
 * To learn how to compile, edit, and shape data into usable sets.
